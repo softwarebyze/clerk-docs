@@ -974,6 +974,17 @@
       ["Astro", "https://github.com/panteliselef/astro-with-clerk-auth/blob/main/packages/astro-clerk-auth/README.md"]
     ]
   ],
+  [
+    {
+      "title": "Koa",
+      "icon": "koa",
+      "root": "references/koa",
+      "tag": "Community"
+    },
+    [
+      ["Koa", "https://github.com/dimkl/clerk-koa"]
+    ]
+  ],
   "# API References",
   ["Backend API", "/reference/backend-api"],
   ["Frontend API", "/reference/frontend-api/"]
